@@ -1,5 +1,4 @@
 # FlinSkyboot
-BOT WHATSAPP HP BINTANG NUR PRADANA
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
