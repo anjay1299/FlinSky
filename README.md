@@ -16,8 +16,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Bintang73/botst4rz.git
-> cd botst4rz
+> git clone https://github.com/anjay1299/FlinSky
+> cd FlinSky
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
@@ -25,7 +25,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| flin sky BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -44,8 +44,3 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 
-## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
-### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
