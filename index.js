@@ -14,7 +14,7 @@ const info = require("./lib/info.js");
 //
 const BotName = 'FLIN SKY BOOT'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/bintang_nur_pradana'; // Nama Instagramlu cok
-const whatsapplu = '0812-4646-0730'; // Nomor whatsapplu cok
+const whatsapplu = '0812-4646-0730'; // '0812-4646-0730';
 const kapanbotaktif = '7-10 malam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/KLW3UlFfeaH36Ucm5zRfCz'; // OFFICIAL GRUP LU 2
